@@ -1,4 +1,4 @@
-# WiFi_Localisation
+# UBIQUM WIFI LOCALISATION PROJECT
 Ubiqum 4: Using WAP signals to detect user/phone locations across three buildings
 
 HOW TO NAVIGATE THIS FILE:
